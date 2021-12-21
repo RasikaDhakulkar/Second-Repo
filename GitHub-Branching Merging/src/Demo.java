@@ -16,5 +16,9 @@ public class Demo
 	{
 	System.out.println("WELCOME");
 	}
+	public void m3()
+	{
+	System.out.println("GITHUB");
+	}
 
 }
