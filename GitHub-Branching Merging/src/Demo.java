@@ -12,5 +12,9 @@ public class Demo
 	{
 	System.out.println("World");
 	}
+	public void m2()
+	{
+	System.out.println("WELCOME");
+	}
 
 }
